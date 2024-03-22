@@ -3,14 +3,14 @@
   <channel>
     <title>For unit test only</title>
     <item>
-        <title>Version 2.0</title>
-        <description>desc Версия</description>
+        <title>Version 3.2.8</title>
+        <description>New version 3.2.8</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.2.8" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
-    <item>
+    <!--item>
         <title>Version 3.0</title>
         <description>Minor updates and improvements.</description>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
@@ -29,20 +29,14 @@
             type="application/octet-stream"
             sparkle:edSignature="..." />
         </sparkle:deltas>
-    </item>
+    </item-->
     <!-- A release testing minimumSystemVersion -->
-    <item>
-        <title>Version 4.0</title>
+    <!--item>
+        <title>Version 3.2.8</title>
         <description>Minor updates and improvements.</description>
         <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.2.8" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
-    </item>
-    <!-- A release testing maximumSystemVersion -->
-    <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
-    </item>
+    </item-->
   </channel>
 </rss>

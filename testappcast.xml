@@ -21,8 +21,14 @@
       <title>Version 3.3.1.2</title>
       <description>New version 3.3.1.2</description>
       <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/driveshare-car-sharing/id1031581546" sparkle:version="3.3.1.2" sparkle:os="iOS"/>
       <enclosure url="https://play.google.com/store/apps/details?id=com.driveshare.app.android.driveshare&hl=en_US&pli=1" sparkle:version="3.3.1.2" sparkle:os="android"/>
+    </item>
+    <item>
+      <id>3.3.1.2-3</id>
+      <title>Version 3.3.1.2</title>
+      <description>New version 3.3.1.2</description>
+      <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/us/app/driveshare-car-sharing/id1031581546" sparkle:version="3.3.1.2" sparkle:os="iOS"/>
     </item>
   </channel>
 </rss>
